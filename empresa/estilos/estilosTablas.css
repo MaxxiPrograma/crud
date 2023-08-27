@@ -1,0 +1,46 @@
+*{
+
+    margin: 0px;
+    padding: 5px;
+    box-sizing: border-box;
+    font-size: 30px;
+}
+html{
+    background-color: #24a19c;
+}
+header{
+    width: 100%; 
+    text-align: center;
+    background-color: #198f8b;
+}
+p{
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+.contenedor{
+    width: 70%;
+    margin: auto;
+    background-color: #6ebfb5;
+    border-radius: 5px;
+
+}
+/*section{
+    
+}*/
+table{
+    margin: auto;
+    text-align: center;
+    width: 95%;
+}
+tr{
+    border: 2px solid black;
+}
+td{
+    border: 2px solid black;
+}
+.VolverBut{
+    border: 3px black solid;
+    cursor:pointer;
+    background-color: #fdafaf;
+    border-radius: 5px;
+}

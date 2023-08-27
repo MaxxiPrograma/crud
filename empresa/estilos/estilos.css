@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+
+    box-sizing: border-box;
+    font-size: 20px;
+    width: 100%;
+ }
+body{
+   background-color: #24a19c;
+   
+ }
+.conte1{
+   text-align: start;
+   margin : auto;
+   width: 100%;
+   background-color: #6ebfb5;
+}
+.contenedor1{
+   padding: 20px;
+   border-radius: 5px;
+   background-color: #24a19c;
+   width: 90%;
+   margin: auto;
+   background-color: #6ebfb5;
+}
+.todo1{
+   margin : auto;
+   width: 50%;
+   background-color: #6ebfb5;
+ }
+header{
+    width: 100%; 
+    text-align: center;
+    background-color: #198f8b;
+    
+ }
+.insertbot{
+   background-color: #ffc7c7;
+   border-radius: 5px;
+
+}
+.insertbut1{
+   margin : auto;
+   width: 30%;
+   background-color: #6ebfb5;
+}
+.insertbut{
+   border: 3px black solid;
+   cursor:pointer;
+   background-color: #ffc7c7;
+   border-radius: 5px;
+}  
+.Tabla{
+   margin : auto;
+}
+.Ver_Tabla{
+   height: 50px;
+   border: 3px black solid;
+   cursor:pointer;
+   background-color: #fdafaf;
+   border-radius: 5px;
+}
+h1{
+   border-radius: 5px;
+   margin: auto;
+   width: 50%;
+   background-color: #0e837f;
+   text-align: center;
+   font-size: 30px;
+}
+p{
+   width: 100%;
+   font-size: 100px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+.Tabla{
+   margin: auto;
+   width: 900px;
+
+}

@@ -1,0 +1,48 @@
+*{
+
+    margin: 0px;
+    padding: 5px;
+    box-sizing: border-box;
+    font-size: 30px;
+}
+html{
+    background-color: #24a19c;
+}
+h1{
+    margin: auto;
+    width: 90%;
+    background-color: #0e837f;
+    text-align: center;
+    font-size: 30px;
+}
+.contenedor{
+    width: 90%;
+    margin: auto;
+    background-color: #6ebfb5;
+}
+.Modificar{
+    text-align: start;
+    margin : auto;
+    width: 40%;
+    background-color: #6ebfb5;
+}
+.modibot{
+    background-color: #ffc7c7;
+    border-radius: 5px;
+    width: 100%;
+}
+.botmodi{
+    margin: auto;
+    border: 3px black solid;
+    cursor:pointer;
+    background-color: #ffc7c7;
+    border-radius: 5px;
+}
+.modif{
+    margin : auto;
+    width: 30%;
+    background-color: #6ebfb5;
+}
+.todo{
+    width: 100%;
+}
